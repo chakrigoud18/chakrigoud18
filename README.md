@@ -20,9 +20,11 @@ I'm continuously learning, building, and looking for opportunities to work on ex
 💼 Projects:
 
 🔍 Disaster Victim Detection Under Debris
+
 Developed an AI-based model to identify human presence beneath debris during natural disasters, aiming to improve rescue operations and response time.
 
 🎙️ Speech Emotion Analyzer
+
 Created a machine learning system that detects emotions from voice inputs, supporting mental health awareness and enhancing AI-human interaction.
 
 📜 Certifications:
