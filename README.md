@@ -17,6 +17,7 @@ I'm continuously learning, building, and looking for opportunities to work on ex
 - Others: Problem Solving, Debugging, API Integration
 
 💼 Projects:
+
 🔍 Disaster Victim Detection Under Debris
 Developed an AI-based model to identify human presence beneath debris during natural disasters, aiming to improve rescue operations and response time.
 🎙️ Speech Emotion Analyzer
@@ -30,6 +31,7 @@ Created a machine learning system that detects emotions from voice inputs, suppo
 - ✅ Frontend Development (HTML/CSS) – Website structure and styling basics
 
 🤝 Let’s Connect!
+
 I'm always open to **collaborations**, **networking**, and **exciting opportunities**.  
 Let’s share ideas, work on something cool, or just have a great tech chat!
 
