@@ -4,6 +4,7 @@
 Avanthi's Scientific Technological and Research Academy, affiliated with JNTUH University (2021–2025).
 
 🧑‍💻 About Me
+
 I'm an aspiring Software Engineer and passionate Developer, interested in all kinds of coder roles— be it development, data analysis, or AI.  
 I'm continuously learning, building, and looking for opportunities to work on exciting projects, especially those that make an impact.  
 
@@ -20,6 +21,7 @@ I'm continuously learning, building, and looking for opportunities to work on ex
 
 🔍 Disaster Victim Detection Under Debris
 Developed an AI-based model to identify human presence beneath debris during natural disasters, aiming to improve rescue operations and response time.
+
 🎙️ Speech Emotion Analyzer
 Created a machine learning system that detects emotions from voice inputs, supporting mental health awareness and enhancing AI-human interaction.
 
