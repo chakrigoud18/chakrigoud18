@@ -11,8 +11,7 @@ I'm continuously learning, building, and looking for opportunities to work on ex
 🚀 Technical Skills:
 - Languages: Python 🐍 | C 🔧  
 - Web Development: HTML, CSS, JavaScript  
-- Frameworks & Libraries: React.js, Bootstrap  
-- Data & AI Tools: Pandas, NumPy, Matplotlib  
+- Frameworks & Libraries: React.js, Bootstrap    
 - Databases: MySQL, Firebase (basic)  
 - Tools: Git, GitHub, VS Code, Jupyter Notebook  
 - Others: Problem Solving, Debugging, API Integration
